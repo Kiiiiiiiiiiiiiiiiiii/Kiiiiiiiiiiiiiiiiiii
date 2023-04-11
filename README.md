@@ -19,7 +19,8 @@ Groovy, AngularJs 기반 예약시스템 운영 및 개발을 담당 하였습�
 
 ### :star2: Stack
 
-<img src="https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge&logo=ApacheGroovy&logoColor=white"> <img src="https://img.shields.io/badge/Java-0085CA?style=for-the-badge">
+<img src="https://img.shields.io/badge/Grails-F15B2A?style=for-the-badge"> <img src="https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge&logo=ApacheGroovy&logoColor=white">
+<img src="https://img.shields.io/badge/Java-0085CA?style=for-the-badge">
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
 <img src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=AngularJS&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
