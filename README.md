@@ -14,6 +14,7 @@ Groovy, AngularJs SPA  운영 및 개발을 담당 하였습니다.<br>
 - 이용자 / 도서관 운영 규정 / 외부 연계 프로그램 관련 API 개발 및 데이터 관리
 - Quartz를 통한 시스템규정처리 API 개발 및 데이터 처리
 - 국립중앙도서관 정보광장 운영 및 개발 (20.03 - 22.08)
+- Lotte Wellfood COEX FOOD WEEK / VIETNAM FOOD EXPO 참가자 DB등록 운영 프로세스 운영 및 개발 (23.10 - 23.11) 
 
 <hr>
 
